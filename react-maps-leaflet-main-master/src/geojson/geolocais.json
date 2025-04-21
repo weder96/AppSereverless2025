@@ -1,0 +1,1034 @@
+[
+	{
+		"local" : "CENTRO DE EDUCACAO PARA JOVENS E ADULTOS -PROF. ELIAS CHADUD",
+		"latitude" : -16.314034,
+		"longitude" : -48.94908,
+		"id" : 1
+	},
+	{
+		"local" : "COLEGIO AUXILIUM",
+		"latitude" : -16.326468,
+		"longitude" : -48.958588,
+		"id" : 2
+	},
+	{
+		"local" : "COLEGIO ESTADUAL ADOLPHO BATISTA",
+		"latitude" : -16.327065,
+		"longitude" : -48.995914,
+		"id" : 3
+	},
+	{
+		"local" : "COLÉGIO ESTADUAL AMERICO BORGES DE CARVALHO",
+		"latitude" : -16.335611,
+		"longitude" : -48.966022,
+		"id" : 4
+	},
+	{
+		"local" : "COLEGIO ESTADUAL ANTENSINA SANTANA",
+		"latitude" : -16.329977,
+		"longitude" : -48.954266,
+		"id" : 5
+	},
+	{
+		"local" : "COLEGIO ESTADUAL CASTELO BRANCO",
+		"latitude" : -16.413599,
+		"longitude" : -48.979767,
+		"id" : 6
+	},
+	{
+		"local" : "COLEGIO ESTADUAL DOUTOR GENSERICO GONZAGA JAIME",
+		"latitude" : -16.340782,
+		"longitude" : -48.946938,
+		"id" : 7
+	},
+	{
+		"local" : "COLEGIO ESTADUAL DR MAUA CAVALCANTE SAVIO",
+		"latitude" : -16.348675,
+		"longitude" : -48.972664,
+		"id" : 8
+	},
+	{
+		"local" : "COLEGIO ESTADUAL GOMES DE SOUZA RAMOS",
+		"latitude" : -16.288885,
+		"longitude" : -48.974293,
+		"id" : 9
+	},
+	{
+		"local" : "COLEGIO ESTADUAL JOSE LUDOVICO DE ALMEIDA",
+		"latitude" : -16.326527,
+		"longitude" : -48.963337,
+		"id" : 11
+	},
+	{
+		"local" : "COLEGIO ESTADUAL LEINY LOPES DE SOUZA",
+		"latitude" : -16.393896,
+		"longitude" : -48.98446,
+		"id" : 12
+	},
+	{
+		"local" : "COLEGIO ESTADUAL LIONS MELCHIOR DE ARAUJO",
+		"latitude" : -16.347183,
+		"longitude" : -48.958973,
+		"id" : 13
+	},
+	{
+		"local" : "COLÉGIO ESTADUAL MARIA APARECIDA ALVES",
+		"latitude" : -16.347,
+		"longitude" : -48.940033,
+		"id" : 14
+	},
+	{
+		"local" : "COLEGIO ESTADUAL OSVALDO FRANCISCO DA SILVA",
+		"latitude" : -16.300055,
+		"longitude" : -48.96837,
+		"id" : 15
+	},
+	{
+		"local" : "COLEGIO ESTADUAL PADRE TRINDADE",
+		"latitude" : -16.329678,
+		"longitude" : -48.93696,
+		"id" : 16
+	},
+	{
+		"local" : "COLEGIO ESTADUAL POLIVALENTE GABRIEL ISSA",
+		"latitude" : -16.345995,
+		"longitude" : -48.959057,
+		"id" : 17
+	},
+	{
+		"local" : "COLEGIO ESTADUAL PROFESSOR FAUSTINO",
+		"latitude" : -16.32839,
+		"longitude" : -48.952053,
+		"id" : 18
+	},
+	{
+		"local" : "COLEGIO ESTADUAL PROFESSOR HELI ALVES FERREIRA",
+		"latitude" : -16.337353,
+		"longitude" : -48.93855,
+		"id" : 19
+	},
+	{
+		"local" : "COLÉGIO ESTADUAL ROQUE ROMEU RAMOS",
+		"latitude" : -16.216846,
+		"longitude" : -49.19611,
+		"id" : 20
+	},
+	{
+		"local" : "COLEGIO ESTADUAL ROTARY DONANA",
+		"latitude" : -16.321306,
+		"longitude" : -48.94008,
+		"id" : 21
+	},
+	{
+		"local" : "COLEGIO ESTADUAL RUI BARBOSA",
+		"latitude" : 0.0,
+		"longitude" : 0.0,
+		"id" : 22
+	},
+	{
+		"local" : "COLÉGIO ESTADUAL SENADOR ONOFRE QUINAN",
+		"latitude" : -16.346302,
+		"longitude" : -48.920696,
+		"id" : 23
+	},
+	{
+		"local" : "COLEGIO ESTADUAL ZECA BATISTA",
+		"latitude" : -16.336031,
+		"longitude" : -48.9575,
+		"id" : 24
+	},
+	{
+		"local" : "COLEGIO GALILEU",
+		"latitude" : -16.329485,
+		"longitude" : -48.941273,
+		"id" : 25
+	},
+	{
+		"local" : "COLEGIO MILITAR",
+		"latitude" : -16.293467,
+		"longitude" : -48.961773,
+		"id" : 26
+	},
+	{
+		"local" : "COLEGIO POLIVALENTE FREI JOAO BATISTA VOGEL",
+		"latitude" : -16.31058,
+		"longitude" : -48.95404,
+		"id" : 27
+	},
+	{
+		"local" : "COLEGIO SAO FRANCISCO DE ASSIS",
+		"latitude" : -16.333397,
+		"longitude" : -48.94472,
+		"id" : 28
+	},
+	{
+		"local" : "EDUCANDARIO ESPIRITA DE ANAPOLIS",
+		"latitude" : -16.33575,
+		"longitude" : -48.943153,
+		"id" : 29
+	},
+	{
+		"local" : "ESCOLA ESTADUAL ARLINDO COSTA",
+		"latitude" : -16.303919,
+		"longitude" : -48.946594,
+		"id" : 30
+	},
+	{
+		"local" : "ESCOLA ESTADUAL CARLOS DE PINA",
+		"latitude" : -16.305807,
+		"longitude" : -48.93402,
+		"id" : 31
+	},
+	{
+		"local" : "ESCOLA ESTADUAL DURVAL NUNES DA MATA",
+		"latitude" : -16.350948,
+		"longitude" : -48.95208,
+		"id" : 32
+	},
+	{
+		"local" : "ESCOLA ESTADUAL GENERAL CURADO",
+		"latitude" : -16.328194,
+		"longitude" : -48.953545,
+		"id" : 33
+	},
+	{
+		"local" : "ESCOLA ESTADUAL JAD SALOMAO",
+		"latitude" : -16.319143,
+		"longitude" : -48.965706,
+		"id" : 34
+	},
+	{
+		"local" : "ESCOLA ESTADUAL JOAO GOMES",
+		"latitude" : -16.267921,
+		"longitude" : -48.832058,
+		"id" : 35
+	},
+	{
+		"local" : "ESCOLA ESTADUAL PADRE FERNANDO GOMES DE MELO",
+		"latitude" : -16.357616,
+		"longitude" : -48.93721,
+		"id" : 36
+	},
+	{
+		"local" : "ESCOLA ESTADUAL PLINIO JAIME",
+		"latitude" : -16.279678,
+		"longitude" : -48.929432,
+		"id" : 37
+	},
+	{
+		"local" : "ESCOLA ESTADUAL PROFESSORA HELENA NASSER",
+		"latitude" : -16.350664,
+		"longitude" : -48.90574,
+		"id" : 38
+	},
+	{
+		"local" : "ESCOLA ESTADUAL PROFESSOR JOSE ABDALA",
+		"latitude" : -16.319792,
+		"longitude" : -48.96706,
+		"id" : 39
+	},
+	{
+		"local" : "ESCOLA ESTADUAL VEREADOR LUIZ DE ALMEIDA",
+		"latitude" : -16.367498,
+		"longitude" : -48.943584,
+		"id" : 40
+	},
+	{
+		"local" : "ESCOLA ESTADUAL VIRGINIO SANTILLO - ENTRADA lateral",
+		"latitude" : -16.313324,
+		"longitude" : -48.958702,
+		"id" : 41
+	},
+	{
+		"local" : "ESCOLA ESTADUAL VIRGINIO SANTILLO - ENTRADA PRINCIPAL",
+		"latitude" : -16.312563,
+		"longitude" : -48.959644,
+		"id" : 42
+	},
+	{
+		"local" : "ESCOLA ESTADUAL WALDEMAR CAVALCANTI",
+		"latitude" : -16.28135,
+		"longitude" : -48.96478,
+		"id" : 43
+	},
+	{
+		"local" : "ESCOLA SÃO RAFAEL - SOUSANIA",
+		"latitude" : -16.183334,
+		"longitude" : -49.034313,
+		"id" : 44
+	},
+	{
+		"local" : "FACULDADE ANHANGUERA -ANTIGA FLA",
+		"latitude" : -16.315147,
+		"longitude" : -48.95175,
+		"id" : 45
+	},
+	{
+		"local" : "FACULDADE CATOLICA DE ANAPOLIS",
+		"latitude" : -16.31387,
+		"longitude" : -48.94689,
+		"id" : 46
+	},
+	{
+		"local" : "FACULDADE FAMA",
+		"latitude" : -16.293957,
+		"longitude" : -48.969143,
+		"id" : 47
+	},
+	{
+		"local" : "FACULDADE RAIZES",
+		"latitude" : -16.32463,
+		"longitude" : -48.960373,
+		"id" : 48
+	},
+	{
+		"local" : "IFG - INSTITUTO FEDERAL DE GOIÁS",
+		"latitude" : -16.372925,
+		"longitude" : -48.98243,
+		"id" : 49
+	},
+	{
+		"local" : "PATRONATO MADRE MAZZARELLO",
+		"latitude" : -16.341614,
+		"longitude" : -48.96069,
+		"id" : 50
+	},
+	{
+		"local" : "SENAC",
+		"latitude" : -16.324913,
+		"longitude" : -48.95121,
+		"id" : 51
+	},
+	{
+		"local" : "SESC",
+		"latitude" : -16.332714,
+		"longitude" : -48.937744,
+		"id" : 52
+	},
+	{
+		"local" : "SESI",
+		"latitude" : -16.29335,
+		"longitude" : -48.967167,
+		"id" : 53
+	},
+	{
+		"local" : "U.E.G. - UNIVERSIDADE ESTADUAL DE GOIÁS",
+		"latitude" : -16.355743,
+		"longitude" : -48.913593,
+		"id" : 54
+	},
+	{
+		"local" : "UNIDADE BASICA DE SAUDE DE MIRANAPOLIS",
+		"latitude" : -16.261124,
+		"longitude" : -48.98857,
+		"id" : 55
+	},
+	{
+		"local" : "UNIEVANGÉLICA-DIREITO",
+		"latitude" : -16.293896,
+		"longitude" : -48.945034,
+		"id" : 56
+	},
+	{
+		"local" : "UNIEVANGÉLICA-INSTITUTO SUPERIOR DE EDUCAÇÃO-ISE",
+		"latitude" : -16.294168,
+		"longitude" : -48.944138,
+		"id" : 57
+	},
+	{
+		"local" : "UNIEVANGÉLICA-ODONTOLOGIA",
+		"latitude" : -16.295248,
+		"longitude" : -48.94402,
+		"id" : 58
+	},
+	{
+		"local" : "E. M. ELZIRA BALDUÍNO",
+		"latitude" : -16.314062,
+		"longitude" : -48.955334,
+		"id" : 72
+	},
+	{
+		"local" : "E. M. GOMES SANTANA RAMOS",
+		"latitude" : -16.178003,
+		"longitude" : -49.08656,
+		"id" : 74
+	},
+	{
+		"local" : "E .M. JOSÉ CUPERTINO DE PAULA",
+		"latitude" : -16.407549,
+		"longitude" : -48.903748,
+		"id" : 81
+	},
+	{
+		"local" : "E. M. PASTOR MIGUEL MOREIRA BRAGA",
+		"latitude" : -16.302507,
+		"longitude" : -48.971283,
+		"id" : 89
+	},
+	{
+		"local" : "E. M. PROF. TASSO BARROS VILLELA ",
+		"latitude" : -16.34848,
+		"longitude" : -48.93856,
+		"id" : 94
+	},
+	{
+		"local" : "E. M. PROFª FRANCISCA MIGUEL",
+		"latitude" : -16.328995,
+		"longitude" : -48.97928,
+		"id" : 98
+	},
+	{
+		"local" : "E. M. PROFª NADYR DE SOUZA ANDRADE",
+		"latitude" : -16.352472,
+		"longitude" : -48.915096,
+		"id" : 102
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL D. ALEXANDRINA",
+		"latitude" : -16.30066,
+		"longitude" : -48.95708,
+		"id" : 69
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL JOAO LUIZ DE OLIVEIRA",
+		"latitude" : -16.321266,
+		"longitude" : -48.946083,
+		"id" : 80
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL PROFESSORA LENA LEÃO",
+		"latitude" : -16.326101,
+		"longitude" : -48.914158,
+		"id" : 100
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL CECILIA MEIRELES",
+		"latitude" : -16.314972,
+		"longitude" : -48.909977,
+		"id" : 64
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL BELISARIA CORREIA DE FARIA",
+		"latitude" : -16.288664,
+		"longitude" : -48.949005,
+		"id" : 63
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL CORA CORALINA",
+		"latitude" : -16.384872,
+		"longitude" : -48.979584,
+		"id" : 67
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL ROSEVIR RIBEIRO PAIVA",
+		"latitude" : -16.35024,
+		"longitude" : -48.958256,
+		"id" : 107
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL SÃO JOSÉ",
+		"latitude" : -16.332703,
+		"longitude" : -48.96922,
+		"id" : 108
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL AYRTON SENA",
+		"latitude" : -16.315115,
+		"longitude" : -48.90591,
+		"id" : 62
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL CLOVIS GUERRA",
+		"latitude" : -16.290226,
+		"longitude" : -48.973495,
+		"id" : 65
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL ANHANGUERA",
+		"latitude" : -16.353449,
+		"longitude" : -48.940434,
+		"id" : 83
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL ANTÔNIO CONSTANTE",
+		"latitude" : -16.338417,
+		"longitude" : -48.938614,
+		"id" : 61
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL MARIA APARECIDA GEBRIM",
+		"latitude" : -16.34544,
+		"longitude" : -48.97456,
+		"id" : 86
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL MIGUEL PEDREIRO",
+		"latitude" : -16.28724,
+		"longitude" : -4897898.0,
+		"id" : 66
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL MOACIR ROMEU COSTA",
+		"latitude" : -16.354748,
+		"longitude" : -48.981934,
+		"id" : 88
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL PROFESSORA MARONITA DIAS DOURADO",
+		"latitude" : -16.369728,
+		"longitude" : -48.948563,
+		"id" : 101
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL RAIMUNDO PAULO HARGREAVES",
+		"latitude" : -16.342745,
+		"longitude" : -48.897854,
+		"id" : 104
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL REALINO JOSE DE OLIVEIRA",
+		"latitude" : -16.277641,
+		"longitude" : -48.99032,
+		"id" : 105
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL PROFESSORA JOSEPHINA SIMÕES",
+		"latitude" : -16.406616,
+		"longitude" : -48.903667,
+		"id" : 99
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL JOÃO BEZE",
+		"latitude" : -16.30512,
+		"longitude" : -48.935364,
+		"id" : 79
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL LUIZ CARLOS BIZINOTTO",
+		"latitude" : -16.369331,
+		"longitude" : -48.98789,
+		"id" : 84
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL MANOEL GONCALVES DA CRUZ",
+		"latitude" : -16.282705,
+		"longitude" : -48.94124,
+		"id" : 85
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL LINDOLFO PEREIRA DA SILVA",
+		"latitude" : -16.288073,
+		"longitude" : -48.965073,
+		"id" : 82
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL EDNE RODRIGUES GOMES",
+		"latitude" : -163205.0,
+		"longitude" : -48.963776,
+		"id" : 96
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL EURIPEDES ALMEIDA MARTINS",
+		"latitude" : -16.305786,
+		"longitude" : -48.944138,
+		"id" : 73
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL INACIO SARDINHA DE LISBOA",
+		"latitude" : -16.192242,
+		"longitude" : -49.02816,
+		"id" : 75
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL JAHIR RIBEIRO GUIMARAES",
+		"latitude" : -16.262096,
+		"longitude" : -48.987988,
+		"id" : 76
+	},
+	{
+		"local" : "COLÉGIO ESTADUAL HERTA LAYSER DO O'OWYER",
+		"latitude" : -16.283924,
+		"longitude" : -48.959732,
+		"id" : 10
+	},
+	{
+		"local" : "E.M. RODOLF MIKEL GHANNAN",
+		"latitude" : -16.330294,
+		"longitude" : -48.977192,
+		"id" : 106
+	},
+	{
+		"local" : "ESCOLA MUNIC. ANAPOLINO SILVÉRIO DE FARIA",
+		"latitude" : -16.396235,
+		"longitude" : -48.98524,
+		"id" : 71
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL AFONSINA MENDES DO CARMO",
+		"latitude" : -16.380026,
+		"longitude" : -48.95979,
+		"id" : 59
+	},
+	{
+		"local" : "ESCOLA JOÃO AMÉLIO DA SILVA",
+		"latitude" : -16.33131,
+		"longitude" : -48.913803,
+		"id" : 78
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL RAIMUNDA DE OLIVEIRA PASSOS",
+		"latitude" : -16.332237,
+		"longitude" : -49.012592,
+		"id" : 103
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL PEDRO LUDOVICO TEIXEIRA",
+		"latitude" : -16.276197,
+		"longitude" : -48.97059,
+		"id" : 90
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL PEDRO NUNES MOREIRA",
+		"latitude" : -16.376942,
+		"longitude" : -48.969494,
+		"id" : 91
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL PROFESSORA DINALVA LOPES",
+		"latitude" : -16.388245,
+		"longitude" : -48.959087,
+		"id" : 95
+	},
+	{
+		"local" : "C. M. E. DES. AIR BORGES DE ALMEIDA",
+		"latitude" : -16.284729,
+		"longitude" : -48.926655,
+		"id" : 113
+	},
+	{
+		"local" : "E. BETESDA PRIMAVERA",
+		"latitude" : -16.302189,
+		"longitude" : -48.887634,
+		"id" : 114
+	},
+	{
+		"local" : "E. PRESBITERIANA DAYSE FANSTONE",
+		"latitude" : -16.290112,
+		"longitude" : -48.919544,
+		"id" : 115
+	},
+	{
+		"local" : "E. PAROQUIAL SANTO ANTÔNIO",
+		"latitude" : -16.31911,
+		"longitude" : -48.95746,
+		"id" : 117
+	},
+	{
+		"local" : "E. PRESB. ORVALHO DO HERMOM",
+		"latitude" : -16.300827,
+		"longitude" : -48.946495,
+		"id" : 119
+	},
+	{
+		"local" : "E. BETESDA JARDIM ESPERANÇA",
+		"latitude" : -16.40703,
+		"longitude" : -48.893177,
+		"id" : 121
+	},
+	{
+		"local" : "E. PRESBITERIANA RENOVADA",
+		"latitude" : -16.281244,
+		"longitude" : -48.939598,
+		"id" : 122
+	},
+	{
+		"local" : "E. BATISTA ESPERANÇA",
+		"latitude" : -16.389069,
+		"longitude" : -48.960373,
+		"id" : 123
+	},
+	{
+		"local" : "C. M. E. I. ARNALDO STECKELBERG",
+		"latitude" : -16.317062,
+		"longitude" : -48.96726,
+		"id" : 124
+	},
+	{
+		"local" : "C. M. E. I. CIBELE TEODORO TELES",
+		"latitude" : -16.282707,
+		"longitude" : -48.96854,
+		"id" : 125
+	},
+	{
+		"local" : "C. M. E. I CRISTIANE ALVES DE ALMEIDA PEIXOTO",
+		"latitude" : -16.384409,
+		"longitude" : -48.982365,
+		"id" : 126
+	},
+	{
+		"local" : "C. M. E. I. D. ÍRIS ARAÚJO REZENDE DE MACHADO",
+		"latitude" : -16.388245,
+		"longitude" : -48.959087,
+		"id" : 128
+	},
+	{
+		"local" : "C. M. E. I. DRª. ZILDA ARNS NEUMANN",
+		"latitude" : -16.34974,
+		"longitude" : -48.922134,
+		"id" : 129
+	},
+	{
+		"local" : "C. M. E. I. GRACINDA MARIA DA SILVA",
+		"latitude" : -16.311558,
+		"longitude" : -48.939068,
+		"id" : 130
+	},
+	{
+		"local" : "C. M. E. I. JOSÉ EPAMINONDAS RORIZ",
+		"latitude" : -16.32645,
+		"longitude" : -48.994152,
+		"id" : 132
+	},
+	{
+		"local" : "C. M. E. I.  MARIA CAPUZZO CREMONEZ",
+		"latitude" : -16.334433,
+		"longitude" : -48.94993,
+		"id" : 133
+	},
+	{
+		"local" : "C. M. E. I. MAURA HELENA DE OLIVEIRA SIMÕES",
+		"latitude" : -16.28475,
+		"longitude" : -48.986565,
+		"id" : 134
+	},
+	{
+		"local" : "C. M. E. I. PAULO FREIRE",
+		"latitude" : -16.30505,
+		"longitude" : -48.898014,
+		"id" : 135
+	},
+	{
+		"local" : "C. M. E. I. PROFª. DALVA Mª DIAS TRINDADE",
+		"latitude" : -16.315125,
+		"longitude" : -48.905846,
+		"id" : 136
+	},
+	{
+		"local" : "C. M. E. I. PROFª RETTIE TIPPLE BATISTA",
+		"latitude" : -16.357553,
+		"longitude" : -48.983063,
+		"id" : 137
+	},
+	{
+		"local" : "C. M. E. I. JORGE AMADO",
+		"latitude" : -16.284288,
+		"longitude" : -48.920547,
+		"id" : 138
+	},
+	{
+		"local" : "C. M. E. I. CARLOS DRUMMOND  DE ANDRADE",
+		"latitude" : -16.373795,
+		"longitude" : -48.98072,
+		"id" : 139
+	},
+	{
+		"local" : "C. M. E. I. MARIO QUINTANA",
+		"latitude" : -16.36552,
+		"longitude" : -48.94581,
+		"id" : 140
+	},
+	{
+		"local" : "C. M. E. I. ILDEFONSO LIMÍRIO GONÇALVES",
+		"latitude" : -16.339928,
+		"longitude" : -48.908207,
+		"id" : 141
+	},
+	{
+		"local" : "C. M. E. I. ANITA MALFATI",
+		"latitude" : -16.277128,
+		"longitude" : -48.987045,
+		"id" : 142
+	},
+	{
+		"local" : "C. E. I. BATISTA CENTRAL DE ANÁPOLIS",
+		"latitude" : -16.278006,
+		"longitude" : -48.916523,
+		"id" : 143
+	},
+	{
+		"local" : "C. E. I. BETE SHALOM - MADUREIRA",
+		"latitude" : -16.295893,
+		"longitude" : -48.955704,
+		"id" : 144
+	},
+	{
+		"local" : "C. E. I. BETE SHALOM II",
+		"latitude" : -16.310602,
+		"longitude" : -48.961414,
+		"id" : 145
+	},
+	{
+		"local" : "C. E. I. BETE SHALOM III",
+		"latitude" : -16.343897,
+		"longitude" : -48.97997,
+		"id" : 146
+	},
+	{
+		"local" : "C. E. I. BETESDA ESPERANÇA",
+		"latitude" : -16.404726,
+		"longitude" : -48.89287,
+		"id" : 147
+	},
+	{
+		"local" : "C. E. I. PELICANO",
+		"latitude" : -16.297579,
+		"longitude" : -48.94582,
+		"id" : 149
+	},
+	{
+		"local" : "C. E. I. PIONEIRA",
+		"latitude" : -16.331797,
+		"longitude" : -48.96225,
+		"id" : 150
+	},
+	{
+		"local" : "C. E. I. PRESB. RENOVADA CENTRAL",
+		"latitude" : -16.325686,
+		"longitude" : -48.961166,
+		"id" : 151
+	},
+	{
+		"local" : "C. E. I. RAINHA DA PAZ",
+		"latitude" : -16.384068,
+		"longitude" : -48.97805,
+		"id" : 152
+	},
+	{
+		"local" : "C. E. I. SANTA TEREZINHA",
+		"latitude" : -16.306452,
+		"longitude" : -48.931847,
+		"id" : 153
+	},
+	{
+		"local" : "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+		"latitude" : -16.330124,
+		"longitude" : -48.94994,
+		"id" : 154
+	},
+	{
+		"local" : "BIBLIOTECA MUNICIPAL ZECA BATISTA ",
+		"latitude" : -16.323944,
+		"longitude" : -48.956226,
+		"id" : 155
+	},
+	{
+		"local" : "CONSELHO MUNICIPAL DE EDUCAÇÃO",
+		"latitude" : 0.0,
+		"longitude" : 0.0,
+		"id" : 156
+	},
+	{
+		"local" : "SETOR MUNICIPAL DE ALIMENTAÇÃO ESCOLAR ",
+		"latitude" : 0.0,
+		"longitude" : 0.0,
+		"id" : 157
+	},
+	{
+		"local" : "CENTRO MUNICIPAL DE APOIO AO DEFICIENTE   CEMAD",
+		"latitude" : 0.0,
+		"longitude" : 0.0,
+		"id" : 158
+	},
+	{
+		"local" : "GARAGEM E ALMOXARIFADO DA EDUCAÇÃO ",
+		"latitude" : 0.0,
+		"longitude" : 0.0,
+		"id" : 159
+	},
+	{
+		"local" : "CENTRO DE FORMAÇÃO DE PROFESSORES",
+		"latitude" : -16.33743,
+		"longitude" : -48.94432,
+		"id" : 160
+	},
+	{
+		"local" : "UNIVERSIDADE ABERTA DO BRASIL - UAB",
+		"latitude" : -16.33743,
+		"longitude" : -48.94432,
+		"id" : 161
+	},
+	{
+		"local" : "PROGRAMA ESCOLA VIVA ",
+		"latitude" : -16.328938,
+		"longitude" : -48.951473,
+		"id" : 162
+	},
+	{
+		"local" : "DIVISÃO DE MANUTENÇÃO ",
+		"latitude" : 0.0,
+		"longitude" : 0.0,
+		"id" : 163
+	},
+	{
+		"local" : "ESCOLA PAROQUIAL SAO SEBASTIAO",
+		"latitude" : -16.317612,
+		"longitude" : -48.952034,
+		"id" : 164
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL JERONIMO VAZ",
+		"latitude" : -16.286238,
+		"longitude" : -48.954746,
+		"id" : 77
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL WALTER BEZE",
+		"latitude" : -16.313967,
+		"longitude" : -48.96265,
+		"id" : 112
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL ALFREDO JACOMOSSI",
+		"latitude" : -16.28275,
+		"longitude" : -48.921703,
+		"id" : 60
+	},
+	{
+		"local" : "ESCOLA BETESDA PRIMAVERA",
+		"latitude" : -16.300932,
+		"longitude" : -48.887203,
+		"id" : 148
+	},
+	{
+		"local" : "ESCOLA BOM SAMARITANO",
+		"latitude" : -16.327051,
+		"longitude" : -48.97222,
+		"id" : 120
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL ALFREDO PEDRO DA SILVEIRA",
+		"latitude" : -16.297056,
+		"longitude" : -49.090282,
+		"id" : 164
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL SEN. JOSÉ LOURENÇO DIAS",
+		"latitude" : -16.28448,
+		"longitude" : -48.966736,
+		"id" : 109
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL WALMIR BASTOS RIBEIRO",
+		"latitude" : -16.339483,
+		"longitude" : -48.92596,
+		"id" : 111
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL TASSO BARROS VILELA",
+		"latitude" : -16.346384,
+		"longitude" : -48.934025,
+		"id" : 165
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL VIOLETA PITALUGA",
+		"latitude" : -16.297539,
+		"longitude" : -48.963314,
+		"id" : 166
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL MARIA ELIZABETE CAMELO DE LISBOA",
+		"latitude" : -16.316448,
+		"longitude" : -48.902264,
+		"id" : 87
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL PROFESSOR ERNST HEEGER",
+		"latitude" : -16.275194,
+		"longitude" : -48.95717,
+		"id" : 92
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL LAR SAO FRANCISCO",
+		"latitude" : -16.35203,
+		"longitude" : -48.977493,
+		"id" : 116
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL DEPUTADO JOSE DE ASSIS",
+		"latitude" : -16.335815,
+		"longitude" : -48.91951,
+		"id" : 68
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL DR. ADAHYL LOURENCO DIAS",
+		"latitude" : -16.25306,
+		"longitude" : -48.93746,
+		"id" : 70
+	},
+	{
+		"local" : "CENTRO MUNICIPAL DE EDUCAÇÃO - AIR BORGES DE ALMEIDA",
+		"latitude" : -16.284729,
+		"longitude" : -48.926655,
+		"id" : 127
+	},
+	{
+		"local" : "CMEI PROFª BENEDITA GOMES DOS SANTOS-ANTIGA ESCOLA MUNICIPAL DE MATAO",
+		"latitude" : -16.218472,
+		"longitude" : -49.19859,
+		"id" : 167
+	},
+	{
+		"local" : "CENTRO MUNICIPAL DE EDUCACAO INFANTIL JANDIRA BRETAS",
+		"latitude" : -16.351091,
+		"longitude" : -48.95194,
+		"id" : 131
+	},
+	{
+		"local" : "ESCOLA ALEGRIA DE SABER",
+		"latitude" : -16.323862,
+		"longitude" : -48.937912,
+		"id" : 168
+	},
+	{
+		"local" : "ESCOLA BEZERRA DE MENEZES",
+		"latitude" : -16.330675,
+		"longitude" : -48.961304,
+		"id" : 169
+	},
+	{
+		"local" : "ESCOLA INFANTIL MARANATA",
+		"latitude" : -16.365719,
+		"longitude" : -48.94462,
+		"id" : 170
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL PROFESSOR JESUS DUARTE",
+		"latitude" : -16.376635,
+		"longitude" : -49.11597,
+		"id" : 93
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL WADY CECILIO",
+		"latitude" : -16.30471,
+		"longitude" : -48.81496,
+		"id" : 110
+	},
+	{
+		"local" : "ESCOLA PRESBITERIANA FILADÉLFIA",
+		"latitude" : -16.359316,
+		"longitude" : -48.95222,
+		"id" : 118
+	},
+	{
+		"local" : "ESCOLA MUNICIPAL PROFESSORA ESTER DE CAMPOS AMARAL",
+		"latitude" : -16.354177,
+		"longitude" : -48.913944,
+		"id" : 97
+	},
+	{
+		"local" : "ESCOLA MISSÃO VIDA",
+		"latitude" : -16.365578,
+		"longitude" : -48.96809,
+		"id" : 171
+	}
+]

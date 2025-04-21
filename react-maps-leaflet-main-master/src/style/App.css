@@ -1,0 +1,359 @@
+@import '~antd/dist/antd.css';
+
+#page-map {
+  width: 95%;
+  height: 100vh;
+  float: left;
+  background-color: #F0F3F8;
+}
+
+form.landing-page-form {
+  width: 500px;
+
+  background: #ffffff;
+  border: 1px solid #d3e2e5;
+  border-radius: 10px;
+
+  padding: 20px 40px;
+
+  position: absolute;
+  top: 30px;
+  left: 40px;
+
+  z-index: 1;
+}
+
+#box-page {
+  width: 96%;
+  position: absolute;
+  bottom: 0px;
+  left: 4%;
+  z-index: 1;
+}
+
+
+#page-map .leaflet-container {
+  z-index: 0;
+}
+
+form.landing-page-form fieldset {
+  border: 0;
+}
+
+form.landing-page-form fieldset legend {
+  width: 100%;
+
+  font-size: 32px;
+  line-height: 34px;
+  color: #5c8599;
+  font-weight: 700; 
+
+  border-bottom: 1px solid #d3e2e5;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+form.landing-page-form .input-block + .input-block {
+  margin-top: 24px;
+}
+
+form.landing-page-form .input-block label {
+  display: flex;
+  color: #8fa7b3;
+  margin-bottom: 8px;
+  line-height: 24px;
+}
+
+form.landing-page-form .input-block label span {
+  font-size: 14px;
+  color: #8fa7b3;
+  margin-left: 24px;
+  line-height: 24px;
+}
+
+form.landing-page-form .input-block input {
+  width: 100%;
+  background: #f5f8fa;
+  border: 1px solid #d3e2e5;
+  border-radius: 20px;
+  outline: none;
+  color: #5c8599;
+}
+
+form.landing-page-form .input-block input {
+  height: 44px;
+  padding: 0 16px;
+}
+
+form.landing-page-form  .input-block .react-date-picker__wrapper {
+  width: 161%;
+  background: #f5f8fa;
+  border: 1px solid #d3e2e5;
+  border-radius: 20px;
+  outline: none;
+  color: #5c8599;
+}
+
+form.landing-page-form .react-date-picker__wrapper input {
+  border: none;
+}
+
+form.landing-page-form button.confirm-reset {
+  margin-top: 34px;
+
+  width: 100%;
+  height: 64px;
+  border: 0;
+  cursor: pointer;
+  background-color: #4254f5;
+  border-radius: 20px;
+  color: #ffffff;
+  font-weight: 800;
+
+  transition: background-color 0.2s;
+}
+
+form.landing-page-form button.confirm-reset:hover {
+  background-color: #6c79f5;
+}
+
+
+form.landing-page-form button.confirm-button {
+  margin-top: 34px;
+
+  width: 100%;
+  height: 64px;
+  border: 0;
+  cursor: pointer;
+  background-color: #39FF14;
+  border-radius: 20px;
+  color: #ffffff;
+  font-weight: 800;
+
+  transition: background-color 0.2s;
+}
+
+form.landing-page-form button.confirm-button:hover {
+  background-color: #39FF14;
+}
+
+
+/* Pop Up - Marker */
+
+#page-map .map-popup .leaflet-popup-content-wrapper {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  box-shadow: none;
+}
+
+#page-map .map-popup .leaflet-popup-content h3 {
+  color: #0089a5;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 8px 12px;
+}
+
+#page-map .map-popup .leaflet-popup-content p {
+  color: #042f38;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 8px 12px;
+  line-height: 15px;
+}
+
+#page-map .map-popup .leaflet-popup-tip-container {
+  display: none;
+}
+
+.clear-button {
+  margin-top: 34px;
+  width: 300px;
+  height: 40px;
+  border: 0;
+  cursor: pointer;
+  background-color: #4254f5 !important;
+  border-radius: 2px;
+  color: #ffffff !important;;
+  font-weight: 800;
+  text-align: center;
+  transition: background-color 0.2s;
+
+  position: absolute;
+  bottom: 5px;
+  left: 8px;
+
+  z-index: 1;
+}
+
+#page-map .map-popup .leaflet-popup-content .edit-button {
+  margin-top: 34px;
+  
+  width: 70%;
+  height: 35px;
+  border: 0;
+  cursor: pointer;
+  background-color: #4254f5;
+  border-radius: 10px;
+  color: #ffffff;
+  font-weight: 800;
+  text-align: center;
+  transition: background-color 0.2s;
+
+} 
+
+
+#page-map .map-popup .leaflet-popup-content .delete-button {
+  margin-top: 34px;
+
+  width: 50%;
+  height: 30px;
+  border: 0;
+  cursor: pointer;
+  background-color: #ec0a2f;
+  border-radius: 10px;
+  color: #ffffff;
+  font-weight: 800;
+
+  transition: background-color 0.2s;
+
+} 
+
+/* Styling react select */
+
+.filter__control {
+  border-radius: 20px !important;
+
+  width: 100% !important;
+  background: #f5f8fa !important;
+  border: 1px solid #d3e2e5 !important;
+  border-radius: 20px !important;
+  outline: none !important;
+  color: #5c8599 !important;
+}
+
+.filter__option {
+  background: #f5f8fa !important;
+  color: #5c8599 !important;
+}
+
+.filter__option--is-focused {
+  background: #d3e2e5 !important;
+  color: #010101 !important;
+}
+
+
+/* Define css class for global loading message to cover 
+   screen during axios operations */
+
+   .loading-indicator:before {
+    content: '';
+    background: #000000cc;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    opacity: .8;
+}
+
+.loading-indicator:after {
+    content: url("../assets/img/tenor.gif");
+    transform: scale(.2);
+    position: fixed;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    z-index: 1001;
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    font-size:1.5rem;        
+}
+
+
+.site-card{
+  background-color: #223263;
+  color: #FFFFFF;
+  height: 400px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+
+.ant-progress-text {
+  color: #FFFFFF !important;
+}
+
+/*Toast */
+
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #282c34;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.app-body {
+  margin-top: -300px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.toast-buttons {
+  display: flex;
+}
+
+.toast-buttons button {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  width: 100px;
+  height: 50px;
+  margin: 0 10px;
+  border: none;
+  outline: none;
+}
+
+.select {
+  display: flex;
+  width: 30%;
+  margin-top: 10px;
+}
+
+.position-select {
+  background-color: inherit;
+  color: #fff;
+  width: 100%;
+  height: 30px;
+  font-size: 16px;
+}
+
+.success {
+  background-color: #5cb85c;
+}
+
+.danger {
+  background-color: #d9534f;
+}
+
+.info {
+  background-color: #5bc0de;
+}
+
+.warning {
+  background-color: #f0ad4e;
+}
+
+
